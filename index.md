@@ -9,4 +9,4 @@ Fill out spreadsheets while your screen fills up with instances of Goose Notepad
 
 ##I am not the owner but i have the file!
 
-##You can [Download](https://github.com/omix122/desktopgoose.github.io/releases/tag/4.0) It for free!
+##You can [Download](https://github.com/omix122/desktopgoose.github.io/releases/download/4.0/DesktopGoose.v0.3.exe) It for free!
