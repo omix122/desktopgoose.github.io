@@ -9,4 +9,4 @@ By samperson
 
 ##I am not the owner but i have the file!
 
-You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
+##You can [Download](https://github.com/omix122/desktopgoose.github.io/releases/tag/4.0)
